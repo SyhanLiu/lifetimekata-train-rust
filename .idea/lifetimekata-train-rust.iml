@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="EMPTY_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/exercises/02_lifetimes_explained/exercise/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/exercises/02_lifetimes_explained/solutions/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/exercises/03_lifetime_elision/exercise/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/exercises/03_lifetime_elision/solutions/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/exercises/04_mutable_references_and_containers/exercise/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/exercises/04_mutable_references_and_containers/solutions/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/exercises/05_lifetimes_on_types/exercise/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/exercises/05_lifetimes_on_types/solutions/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/exercises/07_special_lifetimes/exercise/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/exercises/07_special_lifetimes/solutions/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/exercises/08_finale/exercise/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/exercises/08_finale/solutions/src" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

@@ -1,4 +1,4 @@
-fn merge_vecs<'a, 'b>(v1: Vec<&'a i32>, v2: Vec<&'b i32>) -> Vec<&'a i32> {
+fn merge_vecs<'a, 'b: 'a>(v1: Vec<&'a i32>, v2: Vec<&'b i32>) -> Vec<&'a i32> {
     v2
 }
 

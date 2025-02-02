@@ -1,4 +1,4 @@
-fn test<'a>(v: &'a mut (&'a i32, &'a i32)) {
+fn test<'a: 'b, 'b>(v: &'b mut (&'a i32, &'a i32)) {
     let _ = v.1;
 }
 
